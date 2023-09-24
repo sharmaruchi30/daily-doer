@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592651647618",
+    "project_id": "daily-doer-8f65e",
+    "storage_bucket": "daily-doer-8f65e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592651647618:android:1aaa42c947e82e0721129b",
+        "android_client_info": {
+          "package_name": "com.sharmaruchi.daily_doer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592651647618-cbf0kg48k356sauevvllel0vi24h23is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmnUc3V-CBkIzP5iLiu069ZqjVOeRUoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592651647618-cbf0kg48k356sauevvllel0vi24h23is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
